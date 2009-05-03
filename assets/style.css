@@ -1,0 +1,49 @@
+body {
+  background: white;
+  margin: 0;
+  padding: 0 0 0 100px;
+  font-size: large;
+  background-color: #fff;
+  font-family: "Lucida Grande","bitstream vera sans","trebuchet ms",verdana,arial;
+  text-align: center; }
+
+h1 {
+  font-family: sans-serif;
+  letter-spacing: -1px;
+  color: #2D5AC3;
+  font-weight: normal;
+  font-size: 22px; }
+
+#player {
+  width: 475px;
+  float: left; }
+
+#page {
+  background-color: #efefef;
+  width: 840px;
+  margin: 50px auto;
+  padding: 20px 150px 20px 50px;
+  min-height: 600px;
+  border: 2px solid #fff;
+  outline: 1px solid #ccc;
+  text-align: left; }
+
+a {
+  color: #295c72; }
+
+#subs {
+  float: right;
+  list-style-type: none;
+}
+
+#subs {
+  font-size: small;
+}
+
+#subs .from, #subs .to {
+  display: none;
+}
+
+#subs a {
+  display: block;
+}
