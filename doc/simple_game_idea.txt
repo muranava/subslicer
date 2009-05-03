@@ -1,0 +1,13 @@
+Here's a simple idea for game matching clips to lines. It would be suitable for a beginning learner, 
+and would serve primarily for getting used to the sound of the target language at a high-level.
+
+This particular game would be monolingual, so we don't have to worry about alignment issues. I believe 
+it could also be implemented in a "static" way (no db calls), either by generating multiple questions 
+ahead of time or by somehow using Javascript to randomize them.
+
+Lauren goes to the site, and clicks "matching game."  Then she sees a random clip from a PT movie, and 
+a series of four or five lines. Her task is simply to click the line that corresponds to the clip. 
+
+With a full-length movie, there could be a huge number of such exercises.  
+
+This strikes me as the easiest possible game to create that would be beneficial. WDYT?
